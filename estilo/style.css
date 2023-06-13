@@ -45,7 +45,7 @@ img{
     margin: 0 20px 15px 20px;
     opacity: .7;
     border-radius: 0;
-    transition: 5s;
+    transition: 1s;
 }
 
 img:hover{
